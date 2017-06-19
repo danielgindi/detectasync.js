@@ -1,0 +1,32 @@
+{
+  "name": "detectasync",
+  "version": "1.0.0",
+  "description": "Return first array item that passes an async test (for native await/async/Promise)",
+  "main": "src/detectasync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielgindi/detectasync.js"
+  },
+  "keywords": [
+    "promise",
+    "callback",
+    "away",
+    "async",
+    "for",
+    "forEach",
+    "iterate",
+    "detect",
+    "detectSeries"
+  ],
+  "author": "Daniel Cohen Gindi <danielgindi@gmail.com> (https://github.com/danielgindi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielgindi/detectasync.js/issues"
+  },
+  "homepage": "https://github.com/danielgindi/detectasync.js",
+  "dependencies": {
+  }
+}
